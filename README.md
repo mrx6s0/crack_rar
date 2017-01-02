@@ -2,4 +2,4 @@
 
 cracking files .rar
 
-./crack-rar.py <num_init> <num_final> <file .rar> 
+./crack-rar.py <<numero inicial> <<numero_final> <file .rar> 
